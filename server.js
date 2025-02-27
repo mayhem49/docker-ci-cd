@@ -7,6 +7,7 @@ const app = express();
 // Define a simple route for the home page
 app.get('/', (req, res) => {
   // to trigger
+  // to trigger
   res.send('Hello, world!');
 });
 
